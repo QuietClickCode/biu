@@ -1,4 +1,3 @@
-rootProject.name = 'biu'
+xrootProject.name = 'biu'
 include 'server'
 include 'browser'
-
